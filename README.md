@@ -9,8 +9,8 @@ modelfrom2 = './mymodel/secondbest1224-3.pkl'
 modelfrom3 = './mymodel/third1224-3.pkl'
 testfile = './test'
 
-以上分别为测试结果的存储路径
-三个模型路径
-test文件夹路径
+以上分别为测试结果的存储路径，
+三个模型路径，
+test文件夹路径。
 
 
