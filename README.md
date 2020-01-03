@@ -13,4 +13,6 @@ testfile = './test'
 三个模型路径，
 test文件夹路径。
 
-
+模型文件共有三个，下载地址百度网盘
+https://pan.baidu.com/s/1yCUACyQjuy80YX4QBKUxtw
+无提取码
