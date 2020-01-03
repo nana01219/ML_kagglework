@@ -1,0 +1,2 @@
+# ML_kagglework
+这是SJTU机器学习课程倪冰冰老师的大作业；mymodel文件夹内是用于计算最终结果的三个模型；运行test.py即可得到submission.csv
